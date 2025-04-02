@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zinsile&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/zinsile?pet-id=695252312155417028"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0adad,100:c596de&height=120&text=Welcome!%20zinsile%20:)&animation=fadeIn&fontColor=ff9861&fontSize=40" />
     </div>
@@ -33,12 +41,4 @@ Here are some ideas to get you started:
           </div>
     </div>
 
-<br><br><br>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zinsile&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/zinsile"
-  width="600"
-  height="300"
-/>
-</a>
 
