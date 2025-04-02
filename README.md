@@ -32,4 +32,13 @@ Here are some ideas to get you started:
           <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white">
           </div>
     </div>
-    
+
+<br><br><br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=zinsile&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/zinsile"
+  width="600"
+  height="300"
+/>
+</a>
+
