@@ -18,9 +18,9 @@
 | Date | Project Name | Description | Tech Stack |
 | --- | --- | --- | --- |
 | 2025.04 | Skala Stock Market | 주식을 사고 팔 수 있는 주식 거래 서비스 | Java, Vue, HTML, CSS, JavaScript |
-| 2025.03 | Law Cahtbot |  | Python, CSS, HTML | 
+| 2025.03 | Law Chatbot |  | Python, CSS, HTML | 
 | 2024.02~04 | LG Aimers | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 | Python, Pytorch | 
-| 2023.03~2023.06 | 인공지능 경진대회 | 책 표지 이미지와 제목인 문자열 데이터로 책의 장르 예측 모델 성능 비교 대회 | Python, Pytorch |  
+| 2023.03~2023.06 | 인공지능 경진대회 | 책 표지 이미지와 제목인 문자열 데이터로 책의 장르 예측 모델 성능 비교 대회(예선 3위, 본선 11위) | Python, Pytorch |  
 | 2023.02~2023.06 | 자율 낙과 수거 로봇 | 지정된 맵 안에서 로봇이 자율주행하며 사과를 검출하여 집는 로봇 매니퓰레이션 시행 | Python, Pytorch |  
 | 2022.08~2023.01 | 로봇 매니퓰레이터 | 로봇팔 자동화를 위한 객체 검출 및 위치 추정 알고리즘 개발 | Python, Pytorch |  
 | 2022.06 | SOCAR 해커톤 | SOCAR 사용자 정보 데이터를 이용하여 개인별 특화 할인 쿠폰 방안 제시  | Python, Scikitlearn | 
