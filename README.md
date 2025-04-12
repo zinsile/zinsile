@@ -23,6 +23,10 @@
   </div>
 </div>
 
+| 왼쪽 영역 | 오른쪽 영역 |
+|:--------:|:--------:|
+| ![GitAnimals](https://render.gitanimals.org/lines/zinsile?pet-id=695252312155417028) | ## 🛠️ Tech Stacks <br><br> ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white) |
+
 ## 🎓 Education
 - 25.02 ~ 25.07 | SKALA 1기 | SK C&C
 - 24.01 ~ 24.02 | LGAimers 4기 | LG AI연구원
