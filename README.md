@@ -9,7 +9,7 @@
 - 22.04 ~ 22.07 | SOCAR 인공지능 부트캠프 2기 | LikeLion
 - 18.03 ~ 24.08 | 전북대학교 전자공학부 제어로봇공학 전공
 
-## 🏆 Achivement
+## 🏆 Achivement (Paper, Award)
 - ![Paper](https://img.shields.io/badge/📄_Paper-FDFFB6?style=plastic&logoColor=black) 로봇 매니퓰레이터를 위한 객체의 3차원 위치 추정 및 객체 조작 기법 | 대한전자공학회 / 2022.11 / Vol.2022 No.11 [2022]
 - ![Paper](https://img.shields.io/badge/📄_Paper-FDFFB6?style=plastic&logoColor=black) 카메라 기반 객체의 위치인식을 위한 왜곡제거 및 오검출 필터링 기법 | 대한임베디드공학회 / 2024.02.29 / v.19, no.1, 2024, pp.1-7
 - ![Award](https://img.shields.io/badge/🏆_Award-FFD6E0?style=plastic&logoColor=black) AI경진대회 | 책 표지 이미지와 제목인 문자열 데이터로 책의 장르 예측 모델 성능 비교 대회 | 장려상 | 2023.06
