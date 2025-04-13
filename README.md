@@ -14,7 +14,7 @@
 - ![Paper](https://img.shields.io/badge/📄_Paper-FDFFB6?style=plastic&logoColor=black) 카메라 기반 객체의 위치인식을 위한 왜곡제거 및 오검출 필터링 기법 | 대한임베디드공학회 / 2024.02.29 / v.19, no.1, 2024, pp.1-7
 - ![Award](https://img.shields.io/badge/🏆_Award-FFD6E0?style=plastic&logoColor=black) AI경진대회 | 책 표지 이미지와 제목인 문자열 데이터로 책의 장르 예측 모델 성능 비교 대회 | 장려상 | 2023.06
   
-## 👩🏻‍🚀 Activities
+## 👩‍💻 Activities
 | Date | Project Name | Description | Tech Stack |
 | --- | --- | --- | --- |
 | 2025.04 | Skala Stock Market | 주식을 사고 팔 수 있는 주식 거래 서비스 | Java, Vue, HTML, CSS, JavaScript |
